@@ -14,7 +14,7 @@ d888888b d8888b. db    db d88888D d88888b d8b   db         .d88b.
 - Hi! I'm **Tryzen**. I am a Pixel Artist, and uhhh, and I do more stuff I think.
 - I am trying to learn C
 - You will find mostly random stuff here idk what to do with this yet
-- I can use git now
+- I can use git now (i fogor how it work now)
 <!---
 Tryzen-0/Tryzen-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
