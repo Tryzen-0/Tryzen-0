@@ -11,9 +11,8 @@ d888888b d8888b. db    db d88888D d88888b d8b   db         .d88b.
    
  MagicPC ~/ :# _
  ```
-- Hi! I'm **Tryzen**. I mess with mobile devices, most commonly Samsung devices.
-- I document their stuff aswell as figure out possible ways to access bootloader shells & more.
-- This is mostly for personal stuff rn so don't expect much to be here.
+- Hi! I'm **Tryzen**. I mess with mobile devices, and do other whacky stuff...
+- This is mostly for personal stuff rn so don't expect much to be here. (yet)
 <!---
 Tryzen-0/Tryzen-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
